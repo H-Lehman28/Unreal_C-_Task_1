@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Unreal_CPP_Task_1.gen.cpp.obj": [
+			"TestActor.gen.cpp.obj",
+			"Unreal_CPP_Task_1.init.gen.cpp.obj"
+		]
+	}
+}

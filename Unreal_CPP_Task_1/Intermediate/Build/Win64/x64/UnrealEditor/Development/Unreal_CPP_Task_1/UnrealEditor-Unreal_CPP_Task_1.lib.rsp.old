@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Unreal_CPP_Task_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Harry/Documents/GitHub/Unreal_C++_Task_1/Unreal_CPP_Task_1/Intermediate/Build/Win64/x64/Unreal_CPP_Task_1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Harry/Documents/GitHub/Unreal_C++_Task_1/Unreal_CPP_Task_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_CPP_Task_1/Unreal_CPP_Task_1.cpp.obj"
+"C:/Users/Harry/Documents/GitHub/Unreal_C++_Task_1/Unreal_CPP_Task_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_CPP_Task_1/PerModuleInline.gen.cpp.obj"
+"C:/Users/Harry/Documents/GitHub/Unreal_C++_Task_1/Unreal_CPP_Task_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_CPP_Task_1/Default.rc2.res"
+/OUT:"C:/Users/Harry/Documents/GitHub/Unreal_C++_Task_1/Unreal_CPP_Task_1/Intermediate/Build/Win64/x64/UnrealEditor/Development/Unreal_CPP_Task_1/UnrealEditor-Unreal_CPP_Task_1.lib"

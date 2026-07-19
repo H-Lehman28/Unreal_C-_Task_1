@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_CPP_Task_1",
+			"Path": "..\\Source\\Unreal_CPP_Task_1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_CPP_Task_1Editor",
+			"Path": "..\\Source\\Unreal_CPP_Task_1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

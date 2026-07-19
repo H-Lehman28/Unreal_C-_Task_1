@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\harry\\documents\\github\\unreal_c++_task_1\\unreal_cpp_task_1\\source\\unreal_cpp_task_1\\unreal_cpp_task_1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\harry\\documents\\github\\unreal_c++_task_1\\unreal_cpp_task_1\\intermediate\\build\\win64\\x64\\unreal_cpp_task_1editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\harry\\documents\\github\\unreal_c++_task_1\\unreal_cpp_task_1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_cpp_task_1\\definitions.unreal_cpp_task_1.h",
+            "c:\\users\\harry\\documents\\github\\unreal_c++_task_1\\unreal_cpp_task_1\\source\\unreal_cpp_task_1\\unreal_cpp_task_1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
